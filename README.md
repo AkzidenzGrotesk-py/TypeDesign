@@ -1,7 +1,7 @@
 # TypeDesign
 A collection of my typefaces (and other designs).
 
-## /ttf/
+## .ttf
 _All of my fonts as TrueType format._
 - **Affrimy Regular:** A very janky sans-serif font.
 - **Affrimy Serif:** It has serif in the name, but it's just a sans-serif font with a lot of stroke contrast.
