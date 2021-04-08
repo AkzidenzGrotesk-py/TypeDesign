@@ -8,4 +8,5 @@ _All of my fonts as TrueType format._
 - **LS-OutsideAdvice:** Based on some painted type, only uppercase letters.
 - **Kin's Railroad Regular:** My handwriting! I think this font turned out pretty good.
 - **Eiustas Sans:** A pretty decent raster font.
+- **SiziC:** Font meant for use with the Python Console Engine... but the console doesn't support it. 
 
